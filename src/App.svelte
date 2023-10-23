@@ -3,7 +3,7 @@
 </main>
 
 <style>
-  .logo {
+ /* .logo {
     height: 6em;
     padding: 1.5em;
     will-change: filter;
@@ -17,5 +17,5 @@
   }
   .read-the-docs {
     color: #888;
-  }
+  }*/
 </style>
